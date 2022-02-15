@@ -2,12 +2,6 @@
 Instructions for analysis of Cut&Run-sequencing data. Cut&Run-seq data were generated via CUT&RUN (Cleavage Under Target and Release Using Nuclease), for which 40-200 bp fragment length are expected. Sequencing was done on a NextSeq500 in-house. This Cut&Run workflow includes demultiplexing, trimming, mapping, and peak calling. More descriptions and interpretations have been published (https://www.nature.com/articles/s41598-020-66224-1#Sec9) and stored at ArrayExpress/ENA (https://www.ebi.ac.uk/arrayexpress/experiments/E-MTAB-8203). 
 
 
-# 1. trimming
-# 2. mapping
-# 3. keep all duplicates, but count those
-# 4. access to bam files
-
-
 ## Prepare the project folder and fastq files
 Set the Project folder:
 ```
