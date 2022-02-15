@@ -1,0 +1,25 @@
+[Header],,,,,,,
+IEMFileVersion,4,,,,,,
+Investigator Name,Your_name,,,,,,
+Experiment Name,Your_exp_name,,,,,,
+Date,xxx,,,,,,
+Workflow,GenerateFASTQ,,,,,,
+Application,CUT_RUN_Chip,,,,,,
+Assay,KAPA_HyperPrep Qiagen QIAseq miRNA Library Kit (Library concentration 1 nM),,,,,,
+Description,some_description,,,,,,
+Chemistry,Illumina NextSeq500 High Output v2 Sequenzier Kit (75 cycles single read),,,,,,
+,,,,,,,
+[Reads],,,,,,,
+76,,,,,,,
+,,,,,,,
+,,,,,,,
+[Settings],,,,,,,
+Adapter,AGATCGGAAGAGCACACGTCTGAACTCCAGTCA,,,,,,
+AdapterRead2,,,,,,,
+,,,,,,,
+[Data],,,,,,,
+Sample_ID,Sample_Name,Sample_Plate,Sample_Well,I7_Index_ID,index,Sample_Project,Description
+D96_Lib1,D96_HG3_IgG,,,5,ACAGTG,D96,HG3_CnR1
+D96_Lib3,D96_HG3_CTCF,,,7,CAGATC,D96,HG3_CnR1
+D96_Lib4,D96_HG3_H3K4me3,,,12,CTTGTA,D96,HG3_CnR1
+D96_Lib5,D96_HG3_H3K27ac,,,13,AGTCAA,D96,HG3_CnR1
